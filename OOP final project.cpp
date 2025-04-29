@@ -23,7 +23,7 @@ class one{
 		virtual void show()=0;
 };
 ///////////////////////////////////////// Second class ( Class Information)////////////////////////////////////
-//comment on info class added
+
 class info:public one{
 	char all[100];
 	char name[50];
