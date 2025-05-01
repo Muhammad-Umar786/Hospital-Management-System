@@ -8,7 +8,7 @@ A console-based **Hospital Management System** developed in C++ using Object-Ori
 ## 👨‍💻 Developed By
 
 - **Name**: Muhammad Umar
-- **Course**: BS Computer Science – 3rd Semester
+- **Course**: BS Computer Science – In Progress
 - **Subject**: Object-Oriented Programming (OOP)
 - **Project Type**: Semester Project
 
@@ -159,5 +159,5 @@ This project is for educational purposes. All data is saved locally and not encr
 For any queries, feel free to contact:
 
 **Muhammad Umar**  
-Email: *[Your Email Here]*  
-Institute: PMAS Arid Agriculture University, UIIT  
+Email: *muhammad.umar98233@gmail.com*  
+Institute: PMAS Arid Agriculture University, UIIT Rawalpindi 
